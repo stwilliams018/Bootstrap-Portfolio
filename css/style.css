@@ -6,11 +6,11 @@
     text-align: center
 }
 .TopEmpty{
-    background-image: url(../images/gravel.png);
+    background-image: url(gravel.png);
     border-top: 3px solid black
 }
 .BottomEmpty{
-    background-image: url(../images/gravel.png);
+    background-image: url(gravel.png);
 }
 img {
     float: left
@@ -21,15 +21,15 @@ footer{
     border-top: 5px solid #4aaaa5
 }
 .Sides {
-    background-image: url(../images/gravel.png);
+    background-image: url(gravel.png);
     padding-top: 25em;   
 }
 .SidesContact {
-    background-image: url(../images/gravel.png);
+    background-image: url(gravel.png);
     padding-top: 30em;   
 }
 .SidesPortfolio {
-    background-image: url(../images/gravel.png);
+    background-image: url(gravel.png);
     padding-top: 30em;   
 }
 /*.pad_menu{
